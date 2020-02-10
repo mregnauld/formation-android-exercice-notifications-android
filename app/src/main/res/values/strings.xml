@@ -1,0 +1,16 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Notifications Android</string>
+
+	<!-- Main -->
+	<string name="main_bouton_detail">Notification détail</string>
+	<string name="main_nom_channel">Groupe notifications permissions</string>
+	<string name="main_description_channel">Description du groupe notifications permissions</string>
+	<string name="main_nom_notification">Notification d\'exemple</string>
+	<string name="main_description_notification">Description de la notification</string>
+
+	<!-- Détail -->
+	<string name="detail_page">Page détail</string>
+
+</resources>
